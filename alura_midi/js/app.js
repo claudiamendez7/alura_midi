@@ -24,7 +24,7 @@ for (let contador = 0; contador < mediaList.length; contador++) {
   };
 }
 
-// todo: ciclo While
+// todo: ciclo While ejemplo
 // while (contador < 9) {
 //   const media = mediaList[contador];
 //   const instrument = media.classList[1];
